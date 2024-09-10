@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Erfahrener SAP und ABAP Entwickler – Ihr Partner für Backend-Lösungen",
+    "description": "",
+    "home_page_url": "https://messner-sap.github.io/publii",
+    "feed_url": "https://messner-sap.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charles Messner"
+    },
+    "items": [
+        {
+            "id": "https://messner-sap.github.io/publii/test-1.html",
+            "url": "https://messner-sap.github.io/publii/test-1.html",
+            "title": "Test 1",
+            "summary": "Test",
+            "content_html": "<p>Test</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://messner-sap.github.io/publii/media/posts/1/test1.jpg\" alt=\"\" width=\"344\" height=\"485\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://messner-sap.github.io/publii/media/posts/1/responsive/test1-xs.jpg 640w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-sm.jpg 768w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-md.jpg 1024w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-lg.jpg 1366w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-xl.jpg 1600w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Charles Messner"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-06T13:04:30+02:00",
+            "date_modified": "2024-09-06T13:04:30+02:00"
+        }
+    ]
+}
