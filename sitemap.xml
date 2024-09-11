@@ -5,6 +5,10 @@
 <loc>https://messner-sap.github.io/publii/</loc>
 </url>
 <url>
+<loc>https://messner-sap.github.io/publii/datenschutz/</loc>
+<lastmod>2024-09-11T12:35:19+02:00</lastmod>
+</url>
+<url>
 <loc>https://messner-sap.github.io/publii/dienstleistungen/</loc>
 <lastmod>2024-09-11T12:21:58+02:00</lastmod>
 <image:image>
@@ -14,9 +18,13 @@
 </url>
 <url>
 <loc>https://messner-sap.github.io/publii/impressum/</loc>
-<lastmod>2024-09-11T12:13:25+02:00</lastmod>
+<lastmod>2024-09-11T12:35:04+02:00</lastmod>
 <image:image>
 <image:loc>https://messner-sap.github.io/publii/media/posts/3/imprint-5238392_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://messner-sap.github.io/publii/media/posts/3/typewriter-210640_640.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
