@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Charles Messner – Ihr Partner für maßgeschneiderte ABAP-Entwicklungen",
+    "title": "Charles Messner",
     "description": "",
     "home_page_url": "https://messner-sap.github.io/publii",
     "feed_url": "https://messner-sap.github.io/publii/feed.json",
@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://messner-sap.github.io/publii/test-1.html",
-            "url": "https://messner-sap.github.io/publii/test-1.html",
+            "id": "https://messner-sap.github.io/publii/test-1/",
+            "url": "https://messner-sap.github.io/publii/test-1/",
             "title": "Test 1",
             "summary": "Test",
             "content_html": "<p>Test</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://messner-sap.github.io/publii/media/posts/1/test1.jpg\" alt=\"\" width=\"344\" height=\"485\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://messner-sap.github.io/publii/media/posts/1/responsive/test1-xs.jpg 384w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-sm.jpg 600w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-md.jpg 768w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-lg.jpg 1200w ,https://messner-sap.github.io/publii/media/posts/1/responsive/test1-xl.jpg 1600w\"></figure>",

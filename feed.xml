@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Charles Messner – Ihr Partner für maßgeschneiderte ABAP-Entwicklungen</title>
+    <title>Charles Messner</title>
     <link href="https://messner-sap.github.io/publii/feed.xml" rel="self" />
     <link href="https://messner-sap.github.io/publii" />
     <updated>2024-09-06T13:04:30+02:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>Charles Messner</name>
         </author>
-        <link href="https://messner-sap.github.io/publii/test-1.html"/>
-        <id>https://messner-sap.github.io/publii/test-1.html</id>
+        <link href="https://messner-sap.github.io/publii/test-1/"/>
+        <id>https://messner-sap.github.io/publii/test-1/</id>
 
         <updated>2024-09-06T13:04:30+02:00</updated>
             <summary>
