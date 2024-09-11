@@ -3,7 +3,7 @@
     <title>Charles Messner</title>
     <link href="https://messner-sap.github.io/publii/feed.xml" rel="self" />
     <link href="https://messner-sap.github.io/publii" />
-    <updated>2024-09-11T10:51:44+02:00</updated>
+    <updated>2024-09-11T10:57:31+02:00</updated>
     <author>
         <name>Charles Messner</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://messner-sap.github.io/publii/test-1/"/>
         <id>https://messner-sap.github.io/publii/test-1/</id>
+        <media:content url="https://messner-sap.github.io/publii/media/posts/1/settings-265131_1280.jpg" medium="image" />
 
         <updated>2024-09-06T13:04:30+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://messner-sap.github.io/publii/media/posts/1/settings-265131_1280.jpg" alt="" />
                     Individuelle ABAP-Entwicklung Von klassischen Z-Entwicklungen bis hin zu objektorientierter Programmierung (ABAP-OO) entwickle ich effiziente und skalierbare Programme in ECC und&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://messner-sap.github.io/publii/media/posts/1/settings-265131_1280.jpg" class="type:primaryImage" alt="" /></p>
                 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
